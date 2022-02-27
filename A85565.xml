@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and blovdy fight at sea: between five men of war belonging to the Parliament of England, and a squadron of the Irish Fleet; wherein is contained, the full particulars, and manner of the said fight; the number of ships that were sunk and taken, together with divers prisoners, great store of match and bullet, and 40 pieces of ordnance, and the rest of the fleet quite dispersed and scattered. Also, the resolution of the Welsh men, and the Parliaments declaration to the Kingdom. Likewise, the act and proclamation of the Kingdom of Scotland, touching the crowning of the Prince of VVales. Imprimatur, Theodore Jennings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85565</idno>
+            <idno type="STC">Wing G1639</idno>
+            <idno type="STC">Thomason E542_6</idno>
+            <idno type="STC">ESTC R205956</idno>
+            <idno type="EEBO-CITATION">99865171</idno>
+            <idno type="PROQUEST">99865171</idno>
+            <idno type="VID">164929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164929)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E542[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and blovdy fight at sea: between five men of war belonging to the Parliament of England, and a squadron of the Irish Fleet; wherein is contained, the full particulars, and manner of the said fight; the number of ships that were sunk and taken, together with divers prisoners, great store of match and bullet, and 40 pieces of ordnance, and the rest of the fleet quite dispersed and scattered. Also, the resolution of the Welsh men, and the Parliaments declaration to the Kingdom. Likewise, the act and proclamation of the Kingdom of Scotland, touching the crowning of the Prince of VVales. Imprimatur, Theodore Jennings.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 10th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164929:1" rendition="simple:additions"/>
+            <p>A GREAT AND BLOVDY FIGHT AT SEA: Between five Men of War belonging to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and a Squadron of the Iriſh Fleet; wherein is con<g ref="char:EOLhyphen"/>tained, the full particulars, and manner of the ſaid Fight; the number of ſhips that were ſunk and taken, together with di<g ref="char:EOLhyphen"/>vers priſoners, great ſtore of Match and Bullet, and 40 pieces of Ordnance, and the reſt of the Fleet quite diſperſed and ſcattered. Alſo, the Reſolution of the Welſh-men, and the Parliaments Declaration to the Kingdom.</p>
+            <p>Likewiſe, the <hi>Act</hi> and <hi>Proclamation</hi> of the Kingdom of <hi>Scotland,</hi> touching the crowning of the Prince of <hi>VVales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Theodore Jennings.</signed> 
+                           <dateline>
+                              <date>
+                                 <add>feb: 10<hi rend="sup">th</hi> 1648</add>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>depiction of the sea battle between the English Men of War and the Irish fleet</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164929:2"/>
+            <pb n="1" facs="tcp:164929:2"/>
+            <head>A great and BLOUDY FIGHT AT SEA, Between five Men of War belonging to the Parliament of <hi>England,</hi> and a great part of the Princes FLEET.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ON Wedneſday laſt, being the 7. of this inſtant there happened a great and bloudy Fight at Sea between the Engliſh and the Iriſh, neere the Coaſt of <hi>Ireland,</hi> the manner thus: Capt. <hi>Peacocke</hi> (a man of known and faithfull integrity to the Parlia<g ref="char:EOLhyphen"/>ment) ſayling towards the Iriſh Seas with five Men of War, for cleering the channell about <hi>Dublin</hi> of Pyrates
+<pb n="4" facs="tcp:164929:3"/>and Robbers, diſcovered a Fleet of ſhips about three leagues diſtant, who immediatly made towards them, and comming within Canon-ſhot, hayled them in, to know what they were, and whence they was bound; who replyed, that they belonged to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and were bound for the relief of <hi>Dublin;</hi> but ſay<g ref="char:EOLhyphen"/>ling near to each other, Captain <hi>Peacock</hi> diſcovered them to be Enemies, who preſently gave them a broad ſide; whereupon the Enemies Rear-Admirall anſwerd them with another Volley, inſomuch that a hot diſpute began, continuing for the ſpace of an hour, and although the Enemy was two for one, yet (by divine providence, and the aſſiſtance of the Almighty) by the gallantry of the ſaid Captain <hi>Peacock,</hi> and his Sea-men, he became victorious, and after a bloudy Conflict, ſunk two of the Enemies ſhips, and near upon 70. men, and boarded the Rear-Admirall; the reſt eſcaped having a faire Gale of Wind to ſeparate them from their Engagement, and the raging Billowes forcing them to the Ocean for ſanctu<g ref="char:EOLhyphen"/>ary.</p>
+                  <p>This Fleet conſiſted of ten Sayl, five whereof belong<g ref="char:EOLhyphen"/>ing to the Princes Fleet, the reſt Iriſh, who were deſig<g ref="char:EOLhyphen"/>ned againſt <hi>Dublin.</hi>
+                  </p>
+                  <p>The ſhip which was boarded, was called the <hi>Patrick,</hi> being Rear-admirall to the Fleet, wherein was forty piece of Ordnance, ſix Tun of Match, twenty Barrels of powder, and about two hundred Sea-men.</p>
+                  <p>In this Conflict divers were ſlain on both ſides, Cap<g ref="char:EOLhyphen"/>tain <hi>Peacock</hi> loſt near upon twenty men, and his owne ſhip (called the Dragon) was in great danger of being ſunk, who leaked exceedingly betwixt Wind and Wa<g ref="char:EOLhyphen"/>ter; but by the great ingenuity and vigilancy of the car<g ref="char:EOLhyphen"/>penters
+<pb n="5" facs="tcp:164929:3"/>ſhe was preſerved: the Enemies loſſe is very great, and doth far exceed the other: and many of the priſoners now in cuſtody exceedingly wounded. This happy newes was communicated unto us by a Fiſher<g ref="char:EOLhyphen"/>man, who with his Bark ſtruck into this Harbour, being chaſed from Sea by the diſperſed Fleet.</p>
+                  <p>Upon proclaiming of the late Act of parliament, and fixing it upon poſts, the adverſe party ſeemed to be much grieved thereat, and when the dark Curtaines of the moſt high Canopy were drawn, they cauſed the ſaid <hi>Act</hi> to be pulled down, and in ſtead thereof, cauſed a moſt treaſonable paper to be ſet up, wherein they de<g ref="char:EOLhyphen"/>clared their inveterate malignancy, to ſacrifice their lives and fortunes. in the defence and preſervation of Monarchical Government, &amp;c.</p>
+                  <p>But all diligent care is taken for diſcovery of the chief abetters and Fomenters of the ſaid treaſonable paper; which they perceiving, begin now to be very ſilent.</p>
+                  <p>There are great diſcontents appearing in ſeveral parts throughout North and South Wales; but their deſign is (as yet) of ſmall maturity, and its conceived will not be of any conſequence, unleſſe <hi>Laughornes</hi> Brother, and others from <hi>Ireland</hi> prove inſtrumentall for the delive<g ref="char:EOLhyphen"/>ry of this great Machavilian Monſter into the World; but we hope it will now be fruſtrated, by reaſon of the late blow given to the Enemy at Sea.</p>
+                  <closer>
+                     <dateline>Briſtol <date>9. Feb. 1659.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="4" facs="tcp:164929:4"/>
+            <p> Other Letters from the VVeſt make mention, That divers of the well-affected in the Counties adjacent, upon a meeting near Warham, on the 3. of this inſtant, declared their Reſolutions, and entred into proteſtation, to ſacrifice lives and fortunes in the defence of Parlia<g ref="char:EOLhyphen"/>ment and Army, for the obtaining of Juſtice, Liberty, and Freedom, together with the common Rights of the people of <hi>England.</hi>
+            </p>
+            <p>And do deſire, that impartiall Juſtice may (without detraction of time) be forthwith executed upon all Offendeas wdo have beene ayding and aſſiſting in this tyrannicall, and bloudy war, and promoted the Deſignes of the adverſe party, againſt the well-affected of this Kingdom.</p>
+            <p>Since which Declaratory Expreſſions from the ſaid well-affected party, the ſpirits of malignancy have been much abated in theſe parts: But in ſome parts of He<g ref="char:EOLhyphen"/>reford, &amp; Somertſetſhire, the Coles of Enmity are kind<g ref="char:EOLhyphen"/>ling, and ready to break forth into new flames of Diſ<g ref="char:EOLhyphen"/>cord and Contention, the Clergy ſtirring up the people in their pulpits, and uſing all meanes poſſible to incite them to an Engagement againſt the <hi>Parliament</hi> and <hi>Ar<g ref="char:EOLunhyphen"/>my.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Worceſter <date>9. Feb. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>Edenburgh Feb. <hi>7.</hi> The Aſsembly of the Kirk have pub<g ref="char:EOLhyphen"/>liſhed their Declaration and Testimony; wherein they utterly detest againſt toleration, your new Agreement of the parliament and Army, their breach of Covenant, and their proceedings about the King; and it is ſaid they are drawing up a Meſsage to be ſent to His Highneſse the prince of VVales, together with ſeverall propoſals to be ten<g ref="char:EOLhyphen"/>dered to His Highneſſe, for the obtaining of His Royall aſ<g ref="char:EOLhyphen"/>ſent, to their Vniformity of VVorſhip, and to ſubſcribe
+<pb n="5" facs="tcp:164929:4"/>unto their Rules and Diſcipline of the Kirke, as it now ſtands confirmed and establiſhed within this Nation, and if His Highneſse ſubſcribes, and declares for presbytery, here is few but will embrace him, and caſt a ſmiling coun<g ref="char:EOLhyphen"/>tenance on him, which that He may, here are many pray<g ref="char:EOLhyphen"/>ers, and good wiſhes, the Earles of Lanericke and Lauther<g ref="char:EOLhyphen"/>dale are gone to the Prince, and the Marquis of Montroſſe is gone for Ireland; and its believed, many wits will be em<g ref="char:EOLhyphen"/>ploy'd againſt the Spring.</p>
+                  <p>The Declaration and Reſolution of the Parliament of <hi>England,</hi> concerning the Government of this Kingdom.</p>
+               </body>
+            </floatingText>
+            <p>The Parliament of England now aſſembled doth de<g ref="char:EOLhyphen"/>clare, that they are fully reſolved to maintain, and ſhall and will uphold, preſerve and keep the fundamentall Laws of this Nation for and concerning the preſerva<g ref="char:EOLhyphen"/>tion of the lives, properties and lirerties of the people, with all things incident thereunto; with the alteration touching King and Houſe of Lords, already reſolved in this preſent Parliament, for the good of the people; and what ſhall be further neceſſary for perfecting thereof, And do require and expect, That all Judges, Ju<g ref="char:EOLhyphen"/>ſtices, Sheriffs, and all Officers and Miniſters of Juſtices for the time being do adminiſter Juſtice, and do proceed in their reſpective place accordingly. And it is hereby ordered and appointed, That this Declaration ſhall bee forthwith proclaimed in Weſtminſter Hall, and the Sheriffes in their ſeverall Counties are to cauſe this Declaration to be likewiſe publiſhed.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:164929:5"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>The death of his Majeſty was conveyed to us by an expreſſe the 6 of this inſtant; much lamentation was here for the loſſe of their Native Soveraign, both by the Royall and presbyterian party, with much threat<g ref="char:EOLhyphen"/>ning for revenge of his bloud, which they will doubtleſs put into a ſpeedy way of execution againſt the next Spring, and to ſhew a teſtimony of their diſ-ſatisfacti<g ref="char:EOLhyphen"/>on herein, ſome diſaffected perſons have this day pro<g ref="char:EOLhyphen"/>claimed <hi>Charles Stuart,</hi> eldeſt Son to <hi>Charles Stuart</hi> the firſt, late King of Great Brittain, King of Scotland, and to the end that none may plead ignorance therein, have ordered that the ſame bee proclaimed at the Market-croſſe throughout every Burgh in the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which is not contradicted or gainſayed by the par<g ref="char:EOLhyphen"/>liament, or rather Kirk of this Nation; a foundation of another war is laid herein, but what proceedings there<g ref="char:EOLhyphen"/>upon, a ſhort time will diſcover: Yet divers of the E<g ref="char:EOLhyphen"/>ſtates conveened in parl. have declared, That before Hee be admitted to his Royal power, He ſhall give an aſſu<g ref="char:EOLhyphen"/>rance for the ſecurity of Religion, and the liberty and ſafety of the people, according to the ſolemne League and Covenant between both Kingdoms.</p>
+                  <closer>
+                     <dateline>Edenburgh, <date>8 Febr. 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
